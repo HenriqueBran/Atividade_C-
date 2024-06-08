@@ -21,7 +21,7 @@ class Program
         
             double media = (nota1 + nota2 + nota3) / 3;
 
-            /
+           
             if (media >= 7)
             {
                 Console.WriteLine($"A média é {media:F2}. O aluno está aprovado.");
